@@ -3,7 +3,7 @@ layout: post
 title: Olá, Seja bem vindo!
 description: "Este espaço tem como objetivo discutir, conversar, espalhar e obter conhecimento sobre os diversos assuntos relacionados a diferentes áreas da ciência e projetos dos quais faço parte."
 tags: [geral]
-image:http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg
+img:http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg
 comments: true
 share: true
 ---
