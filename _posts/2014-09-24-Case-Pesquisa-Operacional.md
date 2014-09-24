@@ -23,8 +23,13 @@ Inicialmente, o profissional encarregado do planejamento analisou o sistema de p
 
 A empresa possui a seguinte disponibilidade total desses dois recursos:
 
+* mão-de-obra: **3.520** H.h.
+* estoque de madeira: **10.000** metros quadrados por mês.
+
+O processo de fabricação de móveis requer 5 fases, realizadas em seções específicas, conforme mostra a lista a seguir. A lista também indica a capacidade de produção disponível em cada fase, em função da mão-de-obra e dos equipamentos e ferramentas existentes.
+
 <div class="notice">
-	O método de case adotado pela <a href="http://www.undb.edu.br/">UNDB</a> é baseado na metodologia utilizada pela <a href="http://www.harvard.edu/">Harvard University</a>Mais detalhes sobre esta metodologia podem ser encontrados <a href="http://en.wikipedia.org/wiki/Case_method">aqui</a>
+	O método de case adotado pela <a href="http://www.undb.edu.br/">UNDB</a> é baseado na metodologia utilizada pela <a href="http://www.harvard.edu/">Harvard University</a> Mais detalhes sobre esta metodologia podem ser encontrados <a href="http://en.wikipedia.org/wiki/Case_method">aqui.</a>
 </div>
 
 
