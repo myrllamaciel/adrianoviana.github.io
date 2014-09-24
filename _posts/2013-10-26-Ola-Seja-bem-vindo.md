@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Olá, Seja bem vindo!
-description: "Este espaço tem como objetivo discutir, conversar, espalhar e obter conhecimento sobre os diversos assuntos relacionados a diferentes áreas da ciência e projetos dos quais faço parte.
+description: Este espaço tem como objetivo discutir, conversar, espalhar e obter conhecimento sobre os diversos assuntos relacionados a diferentes áreas da ciência e projetos dos quais faço parte.
 ## Quais os assuntos iremos discutir?
 
 * Disciplinas nas quais sou professor:
@@ -17,7 +17,7 @@ description: "Este espaço tem como objetivo discutir, conversar, espalhar e obt
 	* __Desenvolvimento Web__ 
 	* __Desenvolvimento para ambiente móvel__
 
-* Tópicos relacionados a estilo de vida e empreendedorismo."
+* Tópicos relacionados a estilo de vida e empreendedorismo.
 tags: [geral]
 image:
   background: 
