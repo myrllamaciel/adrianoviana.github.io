@@ -29,7 +29,8 @@ image:
     {% endif %}
   </header>
   <div class="entry-content">
-    {{ post.resumo | markdownify }}
+    {{ post.content }}
+    
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}
