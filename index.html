@@ -30,6 +30,7 @@ image:
   </header>
   <div class="entry-content">
     {{ post.description | markdownify }}
+    <div markdown="0"><a href="{{ site.url }}{{ post.url }}" class="btn btn-info">Leia Mais</a></div>
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}
