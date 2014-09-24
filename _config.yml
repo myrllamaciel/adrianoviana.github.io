@@ -1,4 +1,4 @@
-title:            Adriano Viana Blog
+title:            Prof. Adriano Viana
 description:      Tecnologia, aulas e empreendedorismo
 disqus_shortname: adrianoviana
 reading_time:     true
@@ -23,7 +23,7 @@ owner:
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    +108906860502930904009
 
 # Background image to be tiled on all pages
 background: 
@@ -36,12 +36,12 @@ bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
-links:
-  - title: Theme Setup
-    url: /theme-setup
-  - title: External Link
-    url: http://mademistakes.com
-    external: true
+#links:
+  #- title: Theme Setup
+  #  url: /theme-setup
+  #- title: External Link
+  #  url: http://mademistakes.com
+  #  external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
