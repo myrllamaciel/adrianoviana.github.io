@@ -44,6 +44,7 @@ Não existe banco de dados nem linguagem de back-end. Todo o código é estátic
 
 ## Considerações
 
-Para não alongar demais essa postagem (que é apenas uma apresentação do que veremos aqui), me despeço por hora citando um dos maiore genios da humanidade:
+Para não alongar demais essa postagem (que é apenas uma apresentação do que veremos aqui), me despeço por hora.
 
 > "Wisdom is not a product of schooling but of the lifelong attempt to acquire it"
+__*Albert Einstein*__
