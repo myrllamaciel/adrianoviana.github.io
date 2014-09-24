@@ -30,10 +30,10 @@ image:
   </header>
   <div class="entry-content">
 
-      {% if post.img %}
+      {% if post.thumbnail %}
       <figure>
         <a href="{{ site.url }}{{ post.url }}">
-          <img itemprop="thumbnailUrl" src="/{{ post.img }}" alt="{{ post.title | strip_html }}" title="{{ post.title | strip_html }}" />
+          <img itemprop="thumbnailUrl" src="/{{ post.thumbnail }}" alt="{{ post.title | strip_html }}" title="{{ post.title | strip_html }}" />
         </a>
       </figure>
       {% endif %}
