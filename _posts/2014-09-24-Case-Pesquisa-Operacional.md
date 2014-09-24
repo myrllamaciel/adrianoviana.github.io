@@ -11,7 +11,7 @@ share: true
 
 O intuito desse post é esclarecer os pontos principais relacionados ao case aplicado a disciplina de pesquisa operacional deste semestre (2014.2). Vamos lá!
 
-### Título: Alocação de recursos para empresa de produção de móveis para escritório
+### Alocação de recursos para empresa de produção de móveis para escritório
 
 ### Descrição
 
