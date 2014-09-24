@@ -9,11 +9,11 @@ comments: true
 share: true
 ---
 
-O intuito desse post é esclarecer os pontos principais relacionados ao case aplicado a disciplina de pesquisa operacional deste semestre (2014.2). Vamos lá!
+O intuito desse post é esclarecer os pontos principais relacionados ao case aplicado a disciplina de pesquisa operacional deste semestre (2014.2). 
+
+*Vamos lá!*
 
 ### Alocação de recursos para empresa de produção de móveis para escritório
-
-### Descrição
 
 A companhia ALT-M produz móveis de escritório que, por questões de marketing, agrupou em três conjuntos básicos cujos modelos são: ALFA, BETA E GAMA.
 
@@ -23,5 +23,8 @@ Inicialmente, o profissional encarregado do planejamento analisou o sistema de p
 
 A empresa possui a seguinte disponibilidade total desses dois recursos:
 
+<div class="notice">
+	O método de case adotado pela <a href="http://www.undb.edu.br/">UNDB</a> é baseado na metodologia utilizada pela <a href="http://www.harvard.edu/">Harvard University</a>Mais detalhes sobre esta metodologia podem ser encontrados <a href="http://en.wikipedia.org/wiki/Case_method">aqui</a>
+</div>
 
-O método de case adotado pela [UNDB](http://www.undb.edu.br/) é baseado na metodologia utilizada pela [Harvard University](http://www.harvard.edu/). Mais detalhes sobre esta metodologia podem ser encontrados [aqui](http://en.wikipedia.org/wiki/Case_method).
+
