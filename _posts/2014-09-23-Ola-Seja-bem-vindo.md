@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Olá, Seja bem vindo!
+title: Olá, seja bem vindo!
 description: "Este espaço tem como objetivo discutir, conversar, espalhar e obter conhecimento sobre os diversos assuntos relacionados a diferentes áreas da ciência e projetos dos quais faço parte."
 tags: [geral]
 image:
@@ -11,20 +11,20 @@ share: true
 
 É com muita satisfação que inauguro este Blog!
 
-Este espaço tem como objetivo discutir, conversar, espalhar e obter conhecimento sobre os diversos assuntos relacionados a diferentes áreas da ciência e projetos dos quais faço parte. 
+Este espaço tem como objetivo discutir, conversar, espalhar e obter conhecimento sobre os diversos assuntos relacionados as diferentes áreas da ciência da computação e projetos dos quais faço parte. 
 
 ## Quais os assuntos iremos discutir?
 
 * Disciplinas nas quais sou professor:
 	* Curso de Sistemas de Informação
 		* __Análise e Projeto de Sistemas__
+		* __Lógica Matemática e Computacional__
 	* Curso de Administração
 		* __Pesquisa Operacional__
-		* __Administração de Sistemas de Informação__
 
 * Trabalhos de conclusão de cursos de alunos orientandos.
 
-* Alguns projetos pessoais
+* Alguns projetos pessoais com:
 	* __Desenvolvimento Web__ 
 	* __Desenvolvimento para ambiente móvel__
 
@@ -40,9 +40,12 @@ Para contribuir com uma postagem siga os passos abaixo:
 2. Escreva sua postagem.
 3. Faça o Pull Request para enviar a postagem.
 
-Não existe banco de dados nem linguagem de back-end. Todo o código é estático e totalmente aberto.Também são totalmente bem vindos os comentários com críticas e sugestões.
+Todo o código-fonte é estático, ou seja, não há base de dados ou linguagem de back-end.Também são totalmente bem vindos, comentários com críticas (HATERS GONNA HATE!) e sugestões.
 
-## Considerações
+<figure>
+	<img src="/posts/that_s_all_folks.jpg"  />
+	<figcaption>That's all folks!</figcaption>
+</figure>
 
 Para não alongar demais essa postagem (que é apenas uma apresentação do que veremos aqui), me despeço por hora.
 
