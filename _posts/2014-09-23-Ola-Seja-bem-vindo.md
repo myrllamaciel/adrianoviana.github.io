@@ -40,14 +40,14 @@ Para contribuir com uma postagem siga os passos abaixo:
 2. Escreva sua postagem.
 3. Faça o Pull Request para enviar a postagem.
 
-Todo o código-fonte é estático, ou seja, não há base de dados ou linguagem de back-end.Também são totalmente bem vindos, comentários com críticas (HATERS GONNA HATE!) e sugestões.
+Todo o código-fonte é estático, ou seja, não há base de dados ou linguagem de back-end.Também são totalmente bem vindos, comentários com críticas (_HATERS GONNA HATE!_) e sugestões.
 
 <figure>
 	<img src="/images/posts/2014-09-24-that_s_all_folks.jpg"  />
 	<figcaption>That's all folks!</figcaption>
 </figure>
 
-Para não alongar demais essa postagem (que é apenas uma apresentação do que veremos aqui), me despeço por hora.
+Para não alongar demais essa postagem, que é apenas uma apresentação do que veremos aqui, me despeço por hora.
 
 > "Wisdom is not a product of schooling but of the lifelong attempt to acquire it"<br/>
 __*-Albert Einstein*__
