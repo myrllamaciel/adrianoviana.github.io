@@ -43,7 +43,7 @@ Para contribuir com uma postagem siga os passos abaixo:
 Todo o código-fonte é estático, ou seja, não há base de dados ou linguagem de back-end.Também são totalmente bem vindos, comentários com críticas (HATERS GONNA HATE!) e sugestões.
 
 <figure>
-	<img src="/posts/that_s_all_folks.jpg"  />
+	<img src="/images/posts/2014-09-24-that_s_all_folks.jpg"  />
 	<figcaption>That's all folks!</figcaption>
 </figure>
 
