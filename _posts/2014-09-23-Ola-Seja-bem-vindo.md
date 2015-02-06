@@ -15,7 +15,7 @@ A experiência tem sido excepcional, por isso, esse semestre pensei: -por que n�
 
 O objetivo aqui é discutir, conversar, espalhar e obter conhecimento sobre os diversos assuntos relacionados as diferentes áreas da ciência da computação e projetos dos quais faço parte. 
 
-## Quais os assuntos iremos aboradar?
+## Quais os assuntos iremos abordar?
 
 * Relacionados as disciplinas nas quais sou professor:
 	* Curso de Sistemas de Informação
