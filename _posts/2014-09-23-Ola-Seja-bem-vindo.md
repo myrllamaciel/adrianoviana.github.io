@@ -4,18 +4,20 @@ title: Olá, seja bem vindo!
 description: "Este espaço tem como objetivo discutir, conversar, espalhar e obter conhecimento sobre os diversos assuntos relacionados a diferentes áreas da ciência e projetos dos quais faço parte."
 tags: [geral]
 image:
-  feature: /posts/2014-09-24-iron-man-tony-stark.jpg
+  feature: /posts/2014-09-24-macaco-inteligente.jpg
 comments: true
 share: true
 ---
 
-Em julho do ano de 2014, um novo desafio se fez presente na minha vida, ministrar aulas em uma instituição de ensino superior da minha cidade, São Luís- MA. A experiência tem sido excepcional e por isso, esse semestre pensei: - por quê não expandir esse universo de conhecimento além das fronteiras da sala de aula? E é com muita satisfação que inauguro este Blog!
+Em julho do ano de 2014, um novo desafio se fez presente na minha vida, ministrar aulas em uma instituição de ensino superior da minha cidade, São Luís- MA. 
+
+A experiência tem sido excepcional, por isso, esse semestre pensei: -por que não expandir esse universo? E é com muita satisfação que inauguro este Blog!
 
 O objetivo aqui é discutir, conversar, espalhar e obter conhecimento sobre os diversos assuntos relacionados as diferentes áreas da ciência da computação e projetos dos quais faço parte. 
 
-## Quais os assuntos iremos discutir?
+## Quais os assuntos iremos aboradar?
 
-* Disciplinas nas quais sou professor:
+* Relacionados as disciplinas nas quais sou professor:
 	* Curso de Sistemas de Informação
 		* __Análise e Projeto de Sistemas__
 		* __Lógica Matemática e Computacional__
@@ -30,7 +32,7 @@ O objetivo aqui é discutir, conversar, espalhar e obter conhecimento sobre os d
 
 * Tópicos relacionados a estilo de vida e empreendedorismo.
 
-## Como contribuir?
+## E como contribuir?
 
 Este Blog é um projeto de software livre, tendo todo o código-fonte aberto e disponível no GitHub.
 
