@@ -9,9 +9,9 @@ comments: true
 share: true
 ---
 
-É com muita satisfação que inauguro este Blog!
+Em julho do ano de 2014, um novo desafio se fez presente na minha vida, ministrar aulas em uma instituição de ensino superior da minha cidade, São Luís- MA. A experiência tem sido excepcional e por isso, esse semestre pensei: - por quê não expandir esse universo de conhecimento além das fronteiras da sala de aula? E é com muita satisfação que inauguro este Blog!
 
-Este espaço tem como objetivo discutir, conversar, espalhar e obter conhecimento sobre os diversos assuntos relacionados as diferentes áreas da ciência da computação e projetos dos quais faço parte. 
+O objetivo aqui é discutir, conversar, espalhar e obter conhecimento sobre os diversos assuntos relacionados as diferentes áreas da ciência da computação e projetos dos quais faço parte. 
 
 ## Quais os assuntos iremos discutir?
 
@@ -22,9 +22,9 @@ Este espaço tem como objetivo discutir, conversar, espalhar e obter conheciment
 	* Curso de Administração
 		* __Pesquisa Operacional__
 
-* Trabalhos de conclusão de cursos de alunos orientandos.
+* Trabalhos de conclusão de curso de alunos orientandos.
 
-* Alguns projetos pessoais com:
+* Alguns projetos com programação, _cool projects_ como costumo chamá-los, principalmente tratando de:
 	* __Desenvolvimento Web__ 
 	* __Desenvolvimento para ambiente móvel__
 
