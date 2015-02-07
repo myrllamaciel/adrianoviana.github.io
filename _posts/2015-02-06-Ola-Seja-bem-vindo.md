@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Olá, seja bem vindo!
-description: "Este espaço tem como objetivo discutir, conversar, espalhar e obter conhecimento sobre os diversos assuntos relacionados a diferentes áreas da ciência e projetos dos quais faço parte."
+description: "O objetivo aqui é discutir, conversar, espalhar e obter conhecimento sobre os diversos assuntos relacionados as diferentes áreas da ciência da computação e projetos dos quais faço parte."
 tags: [geral]
 image:
   feature: posts/2015-02-06-macaco-inteligente.jpg

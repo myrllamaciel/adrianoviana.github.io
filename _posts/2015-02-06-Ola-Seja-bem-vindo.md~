@@ -10,7 +10,7 @@ share: true
 ---
 
 Em julho do ano de 2014, um novo desafio se fez presente na minha vida, ministrar aulas em uma instituição de ensino superior da minha cidade, São Luís- MA. 
-
+ 
 A experiência tem sido excepcional, por isso, esse semestre pensei: -por que não expandir esse universo? E é com muita satisfação que inauguro este Blog!
 
 O objetivo aqui é discutir, conversar, espalhar e obter conhecimento sobre os diversos assuntos relacionados as diferentes áreas da ciência da computação e projetos dos quais faço parte. 
