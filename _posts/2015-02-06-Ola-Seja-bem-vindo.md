@@ -4,7 +4,7 @@ title: Olá, seja bem vindo!
 description: "Este espaço tem como objetivo discutir, conversar, espalhar e obter conhecimento sobre os diversos assuntos relacionados a diferentes áreas da ciência e projetos dos quais faço parte."
 tags: [geral]
 image:
-  feature: /posts/2014-09-24-macaco-inteligente.jpg
+  feature: /posts/2015-02-06-macaco-inteligente.jpg
 comments: true
 share: true
 ---
@@ -45,7 +45,7 @@ Para contribuir com uma postagem siga os passos abaixo:
 Todo o código-fonte é estático, ou seja, não há base de dados ou linguagem de back-end.Também são totalmente bem vindos, comentários com críticas (_HATERS GONNA HATE!_) e sugestões.
 
 <figure>
-	<img src="/images/posts/2014-09-24-that_s_all_folks.jpg"  />
+	<img src="/images/posts/2015-06-06-that_s_all_folks.jpg"  />
 	<figcaption>That's all folks!</figcaption>
 </figure>
 
