@@ -95,6 +95,7 @@ A tabela-verdade é o dispositivo utilizado para estabelecer esses possíveis va
 |----
 | 4   | F   | F   |
 |=====
+|    |    | 
 {: rules="groups"}
 
 > Falaremos especificamente da construção de tabelas-verdade em outro post.
