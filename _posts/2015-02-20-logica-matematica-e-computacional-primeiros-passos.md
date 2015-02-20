@@ -62,7 +62,7 @@ Existem dois tipos de classificação para uma proposição, esta pode ser simpl
 ### Proposições simples
 
 * p : Daniel é animado
-* q :  Henrique fuma cigarro
+* q : Henrique fuma cigarro
 * r : Edísio come muito
 
 ### Proposições compostas
