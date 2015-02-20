@@ -85,17 +85,16 @@ Analisando novamente os princípios básicos da lógica matemática, notamos que
 
 A tabela-verdade é o dispositivo utilizado para estabelecer esses possíveis valores lógicos da proposição composta, os mesmos correspondem a todas as possíveis combinações dos valores lógicos das proposições simples componentes. Veja o exemplo de uma tabela-verdade para uma proposição composta de duas proposições simples *p e q*:
 
-|  | p | q |
+|         | p       | q       |
 |:--------|:-------:|--------:|
-| 1   | V   | V   |
+| 1       | V       | V       |
 |----
-| 2   | V   | F   |
+| 2       | V       | F       |
 |----
-| 3   | F   | V   |
+| 3       | F       | V       |
 |----
-| 4   | F   | F   |
+| 4       | F       | F       |
 |=====
-|    |    | 
 {: rules="groups"}
 
 > Falaremos especificamente da construção de tabelas-verdade em outro post.
