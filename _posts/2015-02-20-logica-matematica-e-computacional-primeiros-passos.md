@@ -12,7 +12,7 @@ share: true
 Este é um post introdutório sobre lógica matemática e computacional, o mesmo abrange conceitos básicos que ajudarão a dar inicio aos nossos estudos. Caso queira acrescentar algo, sinta-se livre para ajudar a melhorá-lo.
 
 
-> Os slides de aula referentes a essa postagem podem ser encontrados <a href="https://speakerdeck.com/adrianoviana/logica-matematica-e-computacional-primeiros-passos" rel="bookmark">aqui</a><br/>
+<div xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" about="http://subtlepatterns.com" class="notice">Os slides de aula referentes a essa postagem podem ser encontrados <a href="https://speakerdeck.com/adrianoviana/logica-matematica-e-computacional-primeiros-passos" rel="bookmark">aqui</a></div>
 
 
 ## Proposição
