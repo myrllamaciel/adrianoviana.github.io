@@ -23,19 +23,19 @@ Destaco duas partes desse conceito que julgo serem as principais: a primeira é 
 
 Outra característica importante das proposições é que elas são expressadas através de orações declarativas e nunca exclamativas ou interrogativas e por serem orações, devem possuir sujeito e predicado.  Agora vejamos alguns exemplos:
 
-###  São proposições
+{% highlight yaml %}
+São proposições:
+  A Espanha é um país da Europa.
+  O uniforme do Corinthians é alvinegro.
+  5 < 25
+  Lógica matemática é a melhor disciplina do curso de sistemas de informação.
 
-* A Espanha é um país da Europa.
-* O uniforme do Corinthians é alvinegro.
-* 5 < 25
-* Lógica matemática é a melhor disciplina do curso de sistemas de informação.
-
-###  Não são proposições
-
-* Pedro Álvares Cabral descobriu o Brasil?
-* 2 + 3 / 5
-* Saia da minha frente!
-* 2x + 3 = 5
+Não são proposições:
+  Pedro Álvares Cabral descobriu o Brasil?
+  2 + 3 / 5
+  Saia da minha frente!
+  2x + 3 = 5
+{% endhighlight %}
 
 ## Axiomas
 
@@ -85,7 +85,7 @@ Analisando novamente os princípios básicos da lógica matemática, notamos que
 
 A tabela-verdade é o dispositivo utilizado para estabelecer esses possíveis valores lógicos da proposição composta, os mesmos correspondem a todas as possíveis combinações dos valores lógicos das proposições simples componentes. Veja o exemplo de uma tabela-verdade para uma proposição composta de duas proposições simples *p e q*:
 
-| Header1 | p | q |
+| Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
