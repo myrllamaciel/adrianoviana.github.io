@@ -51,13 +51,13 @@ A partir dos axiomas que regem a lógica matemática, podemos dizer que as propo
 1.  O planeta Terra gira em torno do Sol
 2.  São Luís é a capital do estado de Mato Grosso
 
-O valor lógico da proposição 1 é a __Verdade (V)__ e o valor lógico da proposição 2 é a __Falsidade (F)__.
+O valor lógico da proposição `1` é a __Verdade (V)__ e o valor lógico da proposição `2` é a __Falsidade (F)__.
 
 ## Classificação
 
 Existem dois tipos de classificação para uma proposição, esta pode ser simples (atômica) caso não possua nenhuma outra proposição como parte integrante de si mesmo, ou composta (molecular) caso seja formada pela combinação de duas ou mais proposições, sejam estas simples ou também compostas. 
 
-É comum representarmos as proposições simples com letras minúsculas *p, q, r*, etc. Enquanto que as proposições compostas representamos com letras maiúsculas *P, Q, R*, etc.Vejamos alguns exemplos:
+É comum representarmos as proposições simples com letras minúsculas `p, q, r`, etc. Enquanto que as proposições compostas representamos com letras maiúsculas `P, Q, R`, etc.Vejamos alguns exemplos:
 
 ### Proposições simples
 
@@ -77,26 +77,53 @@ Existem dois tipos de classificação para uma proposição, esta pode ser simpl
 
 Note que nos exemplos acima precisamos de algumas palavras especiais para formar as proposições compostas a partir das proposições simples, estas são chamadas de conectivos. Abaixo listo alguns dos conectivos mais usuais da lógica matemática:
 
-*"e", "ou", "não", "se.. então..", "..se e somente se.."*
+`"e", "ou", "não", "se.. então..", "..se e somente se.."`
 
 ## Tabela-verdade
 
 Analisando novamente os princípios básicos da lógica matemática, notamos que o valor lógico para uma proposição simples sempre terá duas possibilidades, ou seja,  a proposição pode assumir o valor de Verdade (V) ou de Falsidade (F). Já no que diz respeito a proposições compostas, o estabelecimento de seu valor lógico depende dos valores lógicos de suas proposições simples componentes. 
 
-A tabela-verdade é o dispositivo utilizado para estabelecer esses possíveis valores lógicos da proposição composta, os mesmos correspondem a todas as possíveis combinações dos valores lógicos das proposições simples componentes. Veja o exemplo de uma tabela-verdade para uma proposição composta de duas proposições simples *p e q*:
+A tabela-verdade é o dispositivo utilizado para estabelecer esses possíveis valores lógicos da proposição composta, os mesmos correspondem a todas as possíveis combinações dos valores lógicos das proposições simples componentes. Veja o exemplo de uma tabela-verdade para uma proposição composta de duas proposições simples `p e q`:
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
+<table rules="groups" width="100%">
+	<thead>
+		<tr>
+			<th style="text-align:left;"></th>
+			<th style="text-align:center;">p</th>
+			<th style="text-align:right;">q</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:left;">1</td>
+			<td style="text-align:center;">V</td>
+			<td style="text-align:right;">V</td>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td style="text-align:left;">2</td>
+			<td style="text-align:center;">V</td>
+			<td style="text-align:right;">F</td>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td style="text-align:left;">3</td>
+			<td style="text-align:center;">F</td>
+			<td style="text-align:right;">V</td>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td style="text-align:left;">4</td>
+			<td style="text-align:center;">F</td>
+			<td style="text-align:right;">F</td>
+		</tr>
+	</tbody>
+</table>
 
-> Falaremos especificamente da construção de tabelas-verdade em outro post.
+> OBS: Falaremos especificamente da construção de tabelas-verdade em outro post.
 
 ## Notação
 
