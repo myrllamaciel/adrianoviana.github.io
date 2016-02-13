@@ -1,8 +1,9 @@
 ---
 layout: post-index
 title: Últimas Postagens
-description: "Describe this nonsense."
+description: "Confira as novidades do blog"
 tags: [Jekyll, theme, themes, responsive, blog, modern]
+comments: false
 image:
   feature: chalkboard.jpg
   credit: 
@@ -13,7 +14,7 @@ image:
 <article class="hentry">
   <header>
     <div class="entry-meta">
-      <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%d/%m/%Y" }}</a></time></span><span class="author vcard"><span class="fn"><a href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>{% if site.disqus_shortname and post.comments %}&nbsp; &bull; &nbsp;<span class="entry-comments"><a href="{{ site.url }}{{ post.url }}#disqus_thread">Coment&aacute;rios</a></span>{% endif %}
+      <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%d/%m/%Y" }}</a></time></span><span class="author">&nbsp;por&nbsp;<span class="fn"><a href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>{% if site.disqus_shortname and post.comments %}&nbsp; &bull; &nbsp;<span class="entry-comments"><a href="{{ site.url }}{{ post.url }}#disqus_thread">Coment&aacute;rios</a></span>{% endif %}
       {% if site.reading_time %}
       <span class="entry-reading-time pull-right">
         <i class="fa fa-clock-o"></i>
@@ -44,37 +45,4 @@ image:
 </article><!-- /.hentry -->
 {% endfor %}
 
-<div class="pagination">
-  {% if paginator.previous_page %}
-    {% if paginator.previous_page == 1 %}
-      <a href="{{ site.url }}" class="btn">Anterior</a>
-    {% else %}
-      <a href="{{ site.url }}/page{{ paginator.previous_page }}" class="btn">Anterior</a>
-    {% endif %}
-  {% else %}
-    Anterior
-  {% endif %}
-  <ul class="inline-list">
-    <li>
-      {% if paginator.page == 1 %}
-        <span class="current-page">1</span>
-      {% else %}
-        <a href="{{ site.url }}">1</a>
-      {% endif %}
-    </li>
-    {% for count in (2..paginator.total_pages) %}
-      <li>
-        {% if count == paginator.page %}
-          <span class="current-page">{{ count }}</span>
-        {% else %}
-          <a href="{{ site.url }}/page{{ count }}">{{ count }}</a>
-        {% endif %}
-      </li>
-    {% endfor %}
-  </ul>
-  {% if paginator.next_page %}
-    <a href="{{ site.url }}/page{{ paginator.next_page }}" class="btn">Próxima</a>
-  {% else %}
-    Próxima
-  {% endif %}
-</div><!-- /.pagination -->
+{% include pagination.html %}

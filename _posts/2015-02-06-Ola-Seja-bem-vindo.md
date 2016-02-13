@@ -23,10 +23,11 @@ O objetivo aqui é discutir, conversar, espalhar e obter conhecimento sobre os d
 		* __Lógica Matemática e Computacional__
 	* Curso de Administração
 		* __Pesquisa Operacional__
+		* __Administração de Sistemas de Informação__
 
 * Trabalhos de conclusão de curso de alunos orientandos.
 
-* Alguns projetos com programação, _cool projects_ como costumo chamá-los, principalmente tratando de:
+* Alguns projetos com programação principalmente tratando de:
 	* __Desenvolvimento Web__ 
 	* __Desenvolvimento para ambiente móvel__
 
