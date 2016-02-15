@@ -4,15 +4,18 @@ title: Lógica matemática e computacional, primeiros passos!
 description: "Este é um post introdutório sobre lógica matemática e computacional, o mesmo abrange conceitos básicos que ajudarão a dar inicio aos nossos estudos."
 tags: [lógica matemática]
 image:
-  feature: /posts/2015-02-20-baby-steps.jpg
+  feature: /posts/2015-02-20-artificial-brain.jpg
 comments: true
 share: true
 ---
 
-Este é um post introdutório sobre lógica matemática e computacional, o mesmo abrange conceitos básicos que ajudarão a dar inicio aos nossos estudos. Caso queira acrescentar algo, sinta-se livre para ajudar a melhorá-lo.
 
+**Nota:** Este é um post introdutório sobre lógica matemática e computacional, o mesmo abrange conceitos básicos que ajudarão a dar inicio aos nossos estudos. Caso queira acrescentar algo, sinta-se livre para ajudar a melhorá-lo.
+{: .notice}
 
-<div xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" about="http://subtlepatterns.com" class="notice"><a href="https://speakerdeck.com/adrianoviana/logica-matematica-e-computacional-primeiros-passos" rel="bookmark">Os slides de aula referentes a essa postagem podem ser encontrados aqui.</a></div>
+<div markdown="0"><a href="https://speakerdeck.com/adrianoviana/logica-matematica-e-computacional-primeiros-passos" class="btn">Baixar apresentação</a></div>
+
+---
 
 
 ## Proposição
