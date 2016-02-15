@@ -14,18 +14,18 @@ share: true
 
 ---
 
-##Um pouco de história
+## Um pouco de história
 
 Ouviu-se falar pela primeira vez em Pesquisa Operacional, na Inglaterra, durante a segunda guerra mundial, um grupo de cientistas britânicos de __diferentes áreas do conhecimento__, se reuniu com o objetivo de desenvolver métodos capazes de resolver problemas relacionados as operações militares, um exemplo desse tipo de problema, determinar __a melhor utilização__ do armamento. Devido ao sucesso da aplicação desses métodos, após a guerra, o mundo empresarial e acadêmico passara a utilizar essas ideias adaptando-as para melhorar a eficiência e a produtividade na esfera social.
 
-###Melhor utilização e diferentes áreas do conhecimento
+### Melhor utilização e diferentes áreas do conhecimento
 
 O primeiro ponto que destaco aqui, diz respeito a melhor utilização do armamento, podemos perceber que desde o seu surgimento, a pesquisa operacional tem por objetivo determinar a utilização ótima dos recursos, em uma guerra, a melhor utilização do armamento, em uma empresa, a melhor utilização da matéria prima para fabricação de seus produtos. O segundo ponto a ser destacado é o fato de que o grupo de cientistas que participaram eram de diferentes áreas do conhecimento, mostrando que a pesquisa operacional, desde o seu surgimento, tende a fugir do olhar do especialista, pois o mesmo tende a enquadrar todos os problemas nos limites de seu conhecimento.
 
 **Curiosidade:** A pesquisa operacional foi utilizada na segunda guerra mundial para a análise e criação de redes de inteligência, transporte e suprimentos. A figura inicial desta postagem mostra as rotas de entrega de armamentos.
 {: .notice}
 
-##Modelos
+## Modelos
 
 Se eu perguntasse para você o que é menos custoso em termos de recursos, derrubar uma parede ou apagar a mesma de uma planta baixa? Óbvio que a resposta é apagar a parede da planta baixa. 
 
@@ -43,7 +43,7 @@ As técnicas de Pesquisa Operacional utilizam uma série de modelos:
 * Modelos de Otimização
 * Modelos de Simulação
 
-##Poder Computacional
+## Poder Computacional
 
 > " O poder de processamento dos computadores dobra a cada 18 meses."<br/>
 __*-Gordon Earl Moore.*__
@@ -53,7 +53,7 @@ A citação acima surgiu em 1965, conhecida como lei de Moore, desde esta data a
 Sem dúvida alguma a Pesquisa Operacional se beneficia dessa lei, pois quanto maior a velocidade de processamento, capacidade de armazenamento e recuperação das informações, modelos mais versáteis, mais rápidos e interativos podem ser construídos. 
 
 
-##Processos Empresariais
+## Processos Empresariais
 
 Vejamos alguns exemplos de processos empresariais que a Pesquisa Operacional ajuda a aprimorar:
 
