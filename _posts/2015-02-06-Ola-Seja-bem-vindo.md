@@ -23,7 +23,7 @@ O objetivo aqui é discutir, conversar, espalhar e obter conhecimento sobre os d
 		* __Lógica Matemática e Computacional__
 	* Curso de Administração
 		* __Pesquisa Operacional__
-		* __Administração de Sistemas de Informação__
+		* __Sistemas de Informação Gerenciais__
 
 * Trabalhos de conclusão de curso de alunos orientandos.
 

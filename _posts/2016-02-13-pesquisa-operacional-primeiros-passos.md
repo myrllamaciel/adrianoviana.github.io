@@ -12,6 +12,8 @@ share: true
 **Nota:** Este é um post introdutório sobre Pesquisa Operacional, o mesmo abrange conceitos básicos que ajudarão a dar início aos nossos estudos. Caso queira acrescentar algo, sinta-se livre para ajudar a melhorá-lo.
 {: .notice}
 
+<div markdown="0"><a href="https://speakerdeck.com/adrianoviana/pesquisa-operacional-visao-geral" class="btn">Baixar apresentação</a></div>
+
 ---
 
 ## Um pouco de história
