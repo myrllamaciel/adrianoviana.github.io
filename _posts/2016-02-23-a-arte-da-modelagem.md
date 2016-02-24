@@ -12,7 +12,7 @@ share: true
 **Nota:** Neste post conheceremos as abordagens e as fases da Pesquisa Operacional assim como daremos início aos estudos do processo de modelagem. Caso queira acrescentar algo, sinta-se livre para ajudar a melhorá-lo.
 {: .notice}
 
-<div markdown="0"><a href="https://speakerdeck.com/adrianoviana/pesquisa-operacional-visao-geral" class="btn">Baixar apresentação</a></div>
+<div markdown="0"><a href="https://speakerdeck.com/adrianoviana/a-arte-da-modelagem" target="_blank" class="btn">Baixar apresentação</a></div>
 
 ---
 
