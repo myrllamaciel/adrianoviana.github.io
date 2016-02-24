@@ -31,7 +31,7 @@ O objetivo aqui é discutir, conversar, espalhar e obter conhecimento sobre os d
 	* __Desenvolvimento Web__ 
 	* __Desenvolvimento para ambiente móvel__
 
-* Tópicos relacionados a estilo de vida e empreendedorismo.
+* Tópicos relacionados a estilo de vida
 
 ## E como contribuir?
 
