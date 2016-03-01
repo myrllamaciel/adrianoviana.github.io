@@ -378,3 +378,7 @@ Exemplo 2:
 Este foi um post sobre as operações lógicas fundamentais, nos próximos falaremos sobre construções de tabelas-verdade mais complexas. Se você tem alguma dúvida, crítica ou sugestão, não esqueça de deixar seu comentário abaixo. Se gostou dessa postagem não esqueça de compartilhar com seus amigos. 
 
 Por hoje é só moçada, Abraço!
+
+## Slides
+
+<script async class="speakerdeck-embed" data-id="b2bae61d40b745a095f41c700d1f98f6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>

@@ -68,4 +68,8 @@ Vejamos alguns exemplos de processos empresariais que a Pesquisa Operacional aju
 
 Este foi um post introdutório sobre as características gerais da pesquisa operacional, nos próximos falaremos sobre processo de tomada de decisão e modelagem. Se você tem alguma dúvida, crítica ou sugestão, não esqueça de deixar seu comentário abaixo. Se gostou dessa postagem não esqueça de compartilhar com seus amigos. 
 
-Por hoje é só moçada, Abraço!
+Por hoje é só moçada, abraço!
+
+## Slides
+
+<script async class="speakerdeck-embed" data-id="94fd6036c5c04db582fac5f7485a2d62" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>

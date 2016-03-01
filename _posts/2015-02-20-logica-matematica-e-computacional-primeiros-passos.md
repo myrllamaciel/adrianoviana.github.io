@@ -142,4 +142,10 @@ Para proposições compostas deve-se usar as letras maiúsculas como já foi mos
 
 Este foi um post introdutório sobre os conceitos básicos da lógica matemática e computacional, nos próximos falaremos sobre operações lógicas e construção de tabelas-verdade. Se você tem alguma dúvida, crítica ou sugestão, não esqueça de deixar seu comentário abaixo. Se gostou dessa postagem compartilhe com seus amigos. 
 
-Por hoje é só moçada, Abraço!
+Por hoje é só moçada, abraço!
+
+## Slides
+
+<script async class="speakerdeck-embed" data-id="6fa6db4b6e1440e2a836d0a309d05d9a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+

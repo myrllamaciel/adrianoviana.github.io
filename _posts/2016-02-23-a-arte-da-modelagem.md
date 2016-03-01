@@ -138,7 +138,11 @@ A partir de um modelo solucionado e validado, pode-se retirar os níveis de abst
 
 O processo de tomada de decisão de um executivo pode ser desenvolvido em __ambientes especialmente construídos (a arte da modelagem)__ tornando possível a tomada de __decisão com qualidade__. Se você tem alguma dúvida, crítica ou sugestão, não esqueça de deixar seu comentário abaixo. Se gostou dessa postagem não esqueça de compartilhar com seus amigos. 
 
-Por hoje é só moçada, Abraço!
+Por hoje é só moçada, abraço!
+
+## Slides
+
+<script async class="speakerdeck-embed" data-id="315809f8baeb4d9286aafe79bf07180f" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 
 
