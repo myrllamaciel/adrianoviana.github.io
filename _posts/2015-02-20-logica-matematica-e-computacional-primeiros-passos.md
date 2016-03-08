@@ -13,7 +13,11 @@ share: true
 **Nota:** Este é um post introdutório sobre lógica matemática e computacional, o mesmo abrange conceitos básicos que ajudarão a dar inicio aos nossos estudos. Caso queira acrescentar algo, sinta-se livre para ajudar a melhorá-lo.
 {: .notice}
 
-<div markdown="0"><a href="https://speakerdeck.com/adrianoviana/logica-matematica-e-computacional-primeiros-passos" class="btn">Baixar apresentação</a></div>
+Confira os demais posts desta série:
+
+* <a href="/implicacao-e-equivalencia">Implicação e equivalência lógica</a>
+* <a href="/tautologia-contraticao-e-contingencia">Tautologia, contradição e contingência</a>
+* <a href="/operacoes-logicas-fundamentais">Operações lógicas fundamentais</a>
 
 ---
 

@@ -12,7 +12,11 @@ share: true
 **Nota:** Neste post conheceremos as classificação das proposições compostas de acordo com seus respectivos valores lógicos. Caso queira acrescentar algo, sinta-se livre para ajudar a melhorá-lo.
 {: .notice}
 
-<div markdown="0"><a href="https://speakerd.s3.amazonaws.com/presentations/883d0ce342684229897810f1c778c637/Aula04-logicaMatematica.pdf" class="btn">Baixar apresentação</a></div>
+Confira os demais posts desta série:
+
+* <a href="/implicacao-e-equivalencia">Implicação e equivalência lógica</a>
+* <a href="/operacoes-logicas-fundamentais">Operações lógicas fundamentais</a>
+* <a href="/logica-matematica-e-computacional-primeiros-passos">Lógica matemática e computacional, primeiros passos!</a>
 
 ---
 

@@ -13,7 +13,11 @@ share: true
 **Nota:** Neste post conheceremos as operações lógicas fundamentais e construiremos as tabelas-verdade correspondentes. Caso queira acrescentar algo, sinta-se livre para ajudar a melhorá-lo.
 {: .notice}
 
-<div markdown="0"><a href="https://speakerdeck.com/adrianoviana/logica-matematica-e-computacional-tabela-verdade" class="btn">Baixar apresentação</a></div>
+Confira os demais posts desta série:
+
+* <a href="/implicacao-e-equivalencia">Implicação e equivalência lógica</a>
+* <a href="/tautologia-contraticao-e-contingencia">Tautologia, contradição e contingência</a>
+* <a href="/logica-matematica-e-computacional-primeiros-passos">Lógica matemática e computacional, primeiros passos!</a>
 
 ---
 
@@ -365,11 +369,11 @@ Em linguagem natural a proposição condicional pode ser obtida através da adi�
 Exemplo 1:
 	p: John Snow não sabe de nada
 	q: Winterfell será atacada ao amanhecer
-	p → q: John Snow não sabe de nada se e somente se Winterfell será atacada ao amanhecer 
+	p ↔ q: John Snow não sabe de nada se e somente se Winterfell será atacada ao amanhecer 
 Exemplo 2:
 	p: Daenerys está perdida
 	q: Os lannisters assumiram o trono de ferro
-	p → q: Daenerys está perdida se e somente se os lannisters assumiram o trono de ferro
+	p ↔ q: Daenerys está perdida se e somente se os lannisters assumiram o trono de ferro
 {% endhighlight %}
 
 
