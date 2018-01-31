@@ -137,16 +137,16 @@ Como `P(x)` é verdadeira para alguns dos números reais, como `x = 4` por exemp
 	</thead>
 	<tbody>
 		<tr >
-			<td style="text-align:left;">`∀xP(x)`</td>
-			<td style="text-align:center;">`P(x)` é verdadeira para todo `x`</td>
-			<td style="text-align:right;">existe um `x` tal que `P(x)` é falsa</td>
+			<td style="text-align:left;">∀xP(x)</td>
+			<td style="text-align:center;">P(x) é verdadeira para todo x</td>
+			<td style="text-align:right;">existe um x tal que P(x) é falsa</td>
 		</tr>
 	</tbody>
 	<tbody>
 		<tr>
-			<td style="text-align:left;">`∃xP(x)`</td>
-			<td style="text-align:center;">Existe um `x` tal que `P(x)` é verdadeira</td>
-			<td style="text-align:right;">`P(x)` é falsa para todo `x`</td>
+			<td style="text-align:left;">∃xP(x)</td>
+			<td style="text-align:center;">Existe um x tal que P(x) é verdadeira</td>
+			<td style="text-align:right;">P(x) é falsa para todo x</td>
 		</tr>
 	</tbody>
 </table>
