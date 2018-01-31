@@ -22,7 +22,7 @@ Confira os posts da série sobre lógica proposicional:
 
 ---
 
-Na série anterior de postagens, abordamos os conceitos básicos sobre a lógica proposicional, porém esta não é capaz de expressar de forma correta o significado das proposições, tanto em matemática quanto em linguagem natural.
+Na série anterior de postagens, abordamos os conceitos básicos sobre a lógica proposicional, porém esta não é capaz de expressar, de forma correta, o significado das proposições, tanto em matemática quanto em linguagem natural.
 
 #### Exemplo
 
@@ -54,7 +54,7 @@ Para que seja possível expressar esse e um vasto grupo de proposições daremos
 * `A série y é considerada ótima pela crítica.`
 * `A série x está sendo bombardeada pelos críticos.`
 
-Essas expressões não assumem valores de `verdade` ou `falsidade` enquanto os valores das variáveis não são especificados. Notamos que cada sentença é composta por duas partes. A primeira é chamada de __sujeito da declaração__ e a segunda de __predicado__.
+Essas expressões, chamadas de funções proposionais, não assumem valores de `verdade` ou `falsidade` enquanto os valores das variáveis não são especificados. Notamos que cada sentença é composta por duas partes. A primeira é chamada de __sujeito da declaração__ e a segunda de __predicado__.
 
 * `A série x` (sujeito)
 * `está sendo bombardeada pelos críticos.` (predicado)
@@ -76,6 +76,11 @@ Uma vez que o valor é atribuído a variável `x`, a declaração `P(x)` __torna
   * Obtemos a proposição `P(6)` substituindo `x = 6` na declaração `x > 5`. Então, `P(6)`, que é a proposição `6 > 5`, é verdadeira.
 
 ## Quantificadores
+
+Existe uma maneira importante, chamada de quantificação, para criar proposições a partir de funções proposicionais.
+
+**Quantificação:** É a maneira de dizer que um predicado é verdadeiro para um conjunto de elementos.
+{: .notice}
 
 ## Conclusão
 
