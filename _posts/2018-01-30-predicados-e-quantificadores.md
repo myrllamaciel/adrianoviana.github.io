@@ -2,7 +2,7 @@
 layout: post
 title: Evoluindo com a lógica de predicados
 description: "Na série anterior de postagens, abordamos os conceitos básicos sobre a lógica proposicional, porém esta não é capaz de expressar de forma correta o significado das proposições, tanto em matemática quanto em linguagem natural. Para que seja possível expressar um vasto grupo de proposições daremos início ao estudo da chamada lógica de predicados."
-tags: [matemática discreta]
+tags: [matemática discreta,lógica matemática]
 image:
   feature: /posts/2018-01-31-predicados-quantificadores.png
 comments: true
@@ -54,7 +54,7 @@ Para que seja possível expressar esse e um vasto grupo de proposições daremos
 * `A série y é considerada ótima pela crítica.`
 * `A série x está sendo bombardeada pelos críticos.`
 
-Essas expressões, chamadas de funções proposionais, não assumem valores de `verdade` ou `falsidade` enquanto os valores das variáveis não são especificados. Notamos que cada sentença é composta por duas partes. A primeira é chamada de __sujeito da declaração__ e a segunda de __predicado__.
+Essas expressões, chamadas de __funções proposionais__, não assumem valores de `verdade` ou `falsidade` enquanto os valores das variáveis não são especificados. Notamos que cada sentença é composta por duas partes. A primeira é chamada de __sujeito da declaração__ e a segunda de __predicado__.
 
 * `A série x` (sujeito)
 * `está sendo bombardeada pelos críticos.` (predicado)
@@ -82,6 +82,75 @@ Existe uma maneira importante, chamada de quantificação, para criar proposiç�
 **Quantificação:** É a maneira de dizer que um predicado é verdadeiro para um conjunto de elementos.
 {: .notice}
 
+Visto esse conceito, vamos nos ater a dois tipos de quantificação:
+
+* __Universal__ - Nesta modalidade, um predicado é verdadeiro para todos os elementos em consideração.
+* __Existencial__ - Aqui, existe um ou mais elementos para os quais o predicado é verdadeiro.
+
+#### Quantificador Universal (`∀`)
+
+`P(x)` é válida para todos os valores de `x` do domínio.
+
+* `∀xP(x)`
+  * A notação acima indica a quantificação universal de `P(x)`.
+  * `∀xP(x)` é chamado de quantificador universal.
+  * Lê-se `∀xP(x)` como *"para todo x P(x)"*.
+
+**Nota:** Um elemento para o qual `P(x)` é falsa é chamado de contra-exemplo para `∀xP(x)`
+{: .notice}
+
+##### Exemplo
+
+* Seja `P(x)` a função proposicional `x + 3 > x`.
+* Qual o valor-verdade da quantificação `∀xP(x)`, no domínio dos números reais?
+
+Como `P(x)` é verdadeira para todo número real `x`, `∀xP(x)` é __verdadeira__.
+
+#### Quantificador Existencial (`∃`)
+
+Existe um elemento `x` no domínio tal que `P(x)`.
+
+* `∃xP(x)`
+  * A notação acima indica a quantificação existencial de `P(x)`.
+  * `∃xP(x)` é chamado de quantificador existencial.
+  * Lê-se `∃xP(x)` como *"existe um x tal que P(x)"* ou *"existe pelo menos um x tal que P(x)"*.
+
+**Nota:** No lugar da palavra *Existe*, podemos também expressar a quantificação existencial de muitas outras formas, tais como *para algum*, *para pelo menos um*, etc.
+{: .notice}
+
+##### Exemplo
+
+* Seja `P(x)` a função proposicional `x > 2`.
+* Qual o valor-verdade da quantificação `∃xP(x)`, no domínio dos números reais?
+
+Como `P(x)` é verdadeira para alguns dos números reais, como `x = 4` por exemplo, `∃xP(x)` é __verdadeira__.
+
+## Resumo
+
+<table rules="groups" width="100%">
+	<thead>
+		<tr>
+			<th style="text-align:left;">Quantificação</th>
+			<th style="text-align:center;">verdadeira</th>
+			<th style="text-align:right;">falsa</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr >
+			<td style="text-align:left;">`∀xP(x)`</td>
+			<td style="text-align:center;">`P(x)` é verdadeira para todo `x`</td>
+			<td style="text-align:right;">existe um `x` tal que `P(x)` é falsa</td>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td style="text-align:left;">`∃xP(x)`</td>
+			<td style="text-align:center;">Existe um `x` tal que `P(x)` é verdadeira</td>
+			<td style="text-align:right;">`P(x)` é falsa para todo `x`</td>
+		</tr>
+	</tbody>
+</table>
+
 ## Conclusão
 
-Este foi um post sobre as propriedades e equivalências das operações lógicas fundamentais, conhecimentos que serão de total importância quando tratarmos da validade de argumentos, regras de inferência e dedução lógica. Se você tem alguma dúvida, crítica ou sugestão, não esqueça de deixar seu comentário abaixo. Se gostou dessa postagem não esqueça de compartilhar com seus amigos.
+Este foi um post sobre os conceitos básicos da lógica de predicados. Se você tem alguma dúvida, crítica ou sugestão, não esqueça de deixar seu comentário abaixo. Se gostou dessa postagem não esqueça de compartilhar com seus amigos e colegas de turma.
