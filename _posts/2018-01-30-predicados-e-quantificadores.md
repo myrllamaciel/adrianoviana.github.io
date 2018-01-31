@@ -28,7 +28,7 @@ Na série anterior de postagens, abordamos os conceitos básicos sobre a lógica
 
 É de conhecimento que:
 
-* `Todas as séries produzidas pela Netflix são consideradas ótimas pela crítica.`
+* <code class="highlighter-rouge">Todas as séries produzidas pela Netflix são consideradas ótimas pela crítica.</code>
 
 Através das regras estabelecidas pela lógica proposicional não é possível determinar se a afirmação abaixo é verdadeira ou falsa.
 
