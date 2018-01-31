@@ -4,7 +4,7 @@ title: Evoluindo com a lógica de predicados
 description: "Na série anterior de postagens, abordamos os conceitos básicos sobre a lógica proposicional, porém esta não é capaz de expressar de forma correta o significado das proposições, tanto em matemática quanto em linguagem natural. Para que seja possível expressar um vasto grupo de proposições daremos início ao estudo da chamada lógica de predicados."
 tags: [matemática discreta]
 image:
-  feature: /posts/2018-01-30-evoluindo.png
+  feature: /posts/2018-01-31-predicados-quantificadores.png
 comments: true
 share: true
 ---
