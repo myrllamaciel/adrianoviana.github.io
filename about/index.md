@@ -1,18 +1,21 @@
 ---
 layout: page
 permalink: /about/
-title: Sobre Adriano Viana
+title: Sobre Myrlla Maciel
 tags: [sobre]
 image:
-  feature: abstract-4.jpg
+  feature: about.jpg
   credit: 
   creditlink: 
 share: true
 ---
 
-MSc. Arquitetura de Sistemas Computacionais pela Universidade Federal do Maranhão (UFMA). Atualmente Analista Desenvolvedor Senior na Empresa PD Case LTDA. especificamente atuando na prestação de serviços para o Tribunal de Justiça do Maranhão. Recentemente tornou-se professor nos cursos de Sistemas de Informação e Administração na instituição de ensino UNDB, projeto no qual teve maior incentivo para a criação deste Blog. 
-
-<div markdown="0">Veja <a href="{{ site.url }}/Ola-Seja-bem-vindo/" rel="bookmark">aqui</a> os assuntos discutidos neste blog </div>
+Nutricionista, linda Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 <!--<div markdown="0"><a href="{{ site.url }}/theme-setup" class="btn btn-info">Install the Theme</a></div>
