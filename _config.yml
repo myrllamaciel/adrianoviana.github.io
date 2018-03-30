@@ -1,6 +1,6 @@
 title:            Myrlla Maciel Nutricionista
 description:      Nutrição, saúde e bem estar
-disqus_shortname: adrianoviana
+disqus_shortname: myrllamacieldemelo
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -12,7 +12,7 @@ url:              http://mmacielnutri.com.br
 owner:
   name:           Myrlla Maciel
   avatar:         avatar.jpg
-  bio:            "Nutricionista mais linda desse mundo!"
+  bio:            "Nutrionista, gente boa, gente do bem!"
   email:          myrllamaciel@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:       
@@ -25,13 +25,13 @@ owner:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +108906860502930904009
+  google_plus:    
 
 # Background image to be tiled on all pages
 background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: 
+google_analytics: UA-116682259-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
